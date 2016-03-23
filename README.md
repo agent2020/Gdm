@@ -1,0 +1,2 @@
+# Gdm
+Global Digital Magazine
